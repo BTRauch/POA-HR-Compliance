@@ -441,3 +441,4 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
+Rebuild policy index across full repo (169 -> 1,441 documents)
